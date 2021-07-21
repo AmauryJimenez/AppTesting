@@ -4,6 +4,6 @@ namespace ApiTesting
 {
     public class Class1
     {
-        //
+        
     }
 }
